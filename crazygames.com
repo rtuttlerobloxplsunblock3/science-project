@@ -6,12 +6,16 @@
     <title>Smash Karts Unblocked</title>
     <style>
         body { margin: 0; padding: 0; overflow: hidden; background: #000; }
-        iframe { width: 100%; height: 100vh; border: none; }
+        iframe { 
+            width: 100%; 
+            height: 100vh; 
+            border: none; 
+        }
     </style>
 </head>
 <body>
     <iframe 
-        src="https://www.crazygames.com/game/smash-karts" 
+        src="https://schoolkarts.com/" 
         sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-top-navigation-by-user-activation allow-downloads"
         allowfullscreen>
     </iframe>
